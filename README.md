@@ -1,6 +1,5 @@
+<img width="1274" alt="Capture d’écran 2021-01-23 à 18 32 58" src="https://user-images.githubusercontent.com/63422613/105631995-67193800-5e51-11eb-9619-63076172d1a4.png">
 
-
-![](Capture d’écran 2021-01-23 à 18.32.58.png)
 
 
 # Getting Started with Create React App
